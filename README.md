@@ -1,13 +1,12 @@
-# AIHubWeb
-대구 AI 허브 Web 6기 (23.11.01 ~ 23.12.27)
-******************************************
+# AIHubWeb 
+
 ### Course 🏃
 1. HTML & Internet
 2. CSS
 3. Python
 4. gradio
-5. 크롤링
-6. ChatGPT 활용
+5. Crawling
+6. ChatGPT 
 7. Orange3
 8. MachineRunning Medel
 9. DeepRunning Model
