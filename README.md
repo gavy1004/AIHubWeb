@@ -1,4 +1,5 @@
 # AIHubWeb 
+`Notion`(https://roasted-argon-ad6.notion.site/AIHub-6-ce471945a44e471fa7e23bd9ce1d355d?pvs=4) 
 
 ### Course 🏃
 1. HTML & Internet
